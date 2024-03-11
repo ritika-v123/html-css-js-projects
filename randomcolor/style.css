@@ -1,0 +1,21 @@
+.container{
+    width:700px;
+    height: 700px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:30px;
+
+}
+.color,.divv{
+    width:500px;
+    height: 300px;
+    border:1px solid black;
+    margin: 0 auto;
+}
+button{
+    font-size: 18px;
+    padding: 5px;
+    
+}
